@@ -1,0 +1,11 @@
+{
+    "explorer.confirmDelete": false,
+    "editor.renderWhitespace": "all",
+    "editor.tabSize": 4,
+    "editor.insertSpaces": true,
+    "editor.detectIndentation": true,
+    "window.restoreWindows": "none",
+    "gitlens.advanced.messages": {
+        "suppressShowKeyBindingsNotice": true
+    }
+}
