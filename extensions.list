@@ -1,5 +1,8 @@
 andreaskian.vscode-select-line
+bierner.lit-html
 christian-kohler.path-intellisense
+CoenraadS.bracket-pair-colorizer
+cssho.vscode-svgviewer
 dbaeumer.jshint
 dbaeumer.vscode-eslint
 eamodio.gitlens
@@ -9,7 +12,14 @@ formulahendry.auto-close-tag
 formulahendry.auto-rename-tag
 HookyQR.beautify
 jcbuisson.vue
+naumovs.color-highlight
+octref.vetur
+oderwat.indent-rainbow
 pranaygp.vscode-css-peek
 shardulm94.trailing-spaces
 shinnn.stylelint
+vincaslt.highlight-matching-tag
 vsmobile.vscode-react-native
+WakaTime.vscode-wakatime
+wix.vscode-import-cost
+Zignd.html-css-class-completion
