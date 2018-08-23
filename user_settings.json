@@ -5,7 +5,12 @@
     "editor.insertSpaces": true,
     "editor.detectIndentation": true,
     "window.restoreWindows": "none",
+    "jshint.options": {
+        "esversion": 6,
+        "asi" : true,
+    },
     "gitlens.advanced.messages": {
         "suppressShowKeyBindingsNotice": true
-    }
+    },
+    "breadcrumbs.enabled": true,
 }
